@@ -35,7 +35,7 @@ After the test passed I ran the sample file which failed, for the final 30 minut
 - [x] Interpret records with notes (many)
 - [x] Interpret records with null notes (edge case)
 - [x] Interpret invalid records (closed cases)
-- [] Interpret records with missing columns (edge case?)
+- [ ] Interpret records with missing columns (edge case?)
 Anything else which I may have missed as I didn not implement appropriate logging
 
 
