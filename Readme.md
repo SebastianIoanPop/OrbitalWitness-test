@@ -31,11 +31,11 @@ After that it was only a matter of making adjustments until the test passed as e
 After the test passed I ran the sample file which failed, for the final 30 minutes I worked on edge cases found added one extra test and a few more validations.
 
 ## Features:
-[x] Interpret records (majority)
-[x] Interpret records with notes (many)
-[x] Interpret records with null notes (edge case)
-[x] Interpret invalid records (closed cases)
-[] Interpret records with missing columns (edge case?)
+- [x] Interpret records (majority)
+- [x] Interpret records with notes (many)
+- [x] Interpret records with null notes (edge case)
+- [x] Interpret invalid records (closed cases)
+- [ ] Interpret records with missing columns (edge case?)
 Anything else which I may have missed as I didn not implement appropriate logging
 
 
