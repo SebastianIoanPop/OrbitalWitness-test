@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitalWitness", "OrbitalWitness\OrbitalWitness.csproj", "{2DD78E82-6EE2-4EAD-93AB-8968EE63CA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A748FE11-6F14-48AC-AE3A-D31243709A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD78E82-6EE2-4EAD-93AB-8968EE63CA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD78E82-6EE2-4EAD-93AB-8968EE63CA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD78E82-6EE2-4EAD-93AB-8968EE63CA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD78E82-6EE2-4EAD-93AB-8968EE63CA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A748FE11-6F14-48AC-AE3A-D31243709A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A748FE11-6F14-48AC-AE3A-D31243709A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A748FE11-6F14-48AC-AE3A-D31243709A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A748FE11-6F14-48AC-AE3A-D31243709A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95802A0F-0BFE-4B20-9B60-74BA58F60DA3}
+	EndGlobalSection
+EndGlobal
